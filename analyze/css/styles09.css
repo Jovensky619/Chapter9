@@ -8,6 +8,9 @@
 body {
 	background-color: #c8dbe3;
 }
+video{
+        margin: 0 auto 4% ;
+      }
 
 /* Style rule for the container */
 #container {
